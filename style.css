@@ -43,13 +43,16 @@ body {
 .texto p {
     line-height: 2em;
 }
-.imagem{
+
+.imagem {
     flex: 1;
     text-align: center;
 
 }
-.iamgem img{
+
+.iamgem img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
+    width: 300px;
 }
